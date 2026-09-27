@@ -1,5 +1,4 @@
-Hello  I’m Otilia 👋 <img width="80" height="80" alt="otiledONperfilYT" src="https://github.com/user-attachments/assets/e9477b6c-f40f-4dde-a467-e6e67940ef6d" />
-<img width="718" height="334" alt="BannerGIThub" src="https://github.com/user-attachments/assets/5aae8d10-4f27-48c2-8c37-b9bd930abd00" />
+Hello  I’m Otilia and <h1>OtiLedON</h1>img width="80" height="80" alt="otiledONperfilYT" src="https://github.com/user-attachments/assets/e9477b6c-f40f-4dde-a467-e6e67940ef6d" />If the backlight turns ON while holding it and OFF when released, your keyboard is 100% compatible and this app will keep it permanently on!<img width="718" height="334" alt="BannerGIThub" src="https://github.com/user-attachments/assets/5aae8d10-4f27-48c2-8c37-b9bd930abd00" />
 
 <!--
 **OtiLedON/OtiLedON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
