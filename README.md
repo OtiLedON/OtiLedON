@@ -1,8 +1,9 @@
 <center> <h1>Hello I’m Otilia, whit  OtiLedON:</h1><img width="80" height="80" alt="otiledONperfilYT" src="https://github.com/user-attachments/assets/e9477b6c-f40f-4dde-a467-e6e67940ef6d" /> </center> <br>If the backlight(SCROLL) turns ON while holding it and OFF when released, your keyboard is 99% compatible and this app will keep it permanently on (in MacOS)!<img width="718" height="334" alt="BannerGIThub" src="https://github.com/user-attachments/assets/5aae8d10-4f27-48c2-8c37-b9bd930abd00" />
 <br> 
 I have a background in **IT, Electronics, and Telecommunications**, combining hardware and software knowledge to build efficient solutions.
-### 🚀 Featured Project: OtiLedON
-I am currently developing a **lightweight macOS utility** built entirely with **Swift**. 
+<br> 
+<h3> 🚀 Featured Project: OtiLedON</h3>
+ I am currently developing a **lightweight macOS utility** built entirely with **Swift**. 
 
 *   **The Problem:** I needed a way to code and see my keys better, but existing tools like *OpenRGB* and *Karabiner-Elements* couldn't trigger my RGB keyboard backlight on macOS.
 *   **The Solution:** I built my own lightweight software fix from scratch.
