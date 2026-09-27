@@ -1,4 +1,5 @@
 Hello  I’m Otilia 👋
+<img width="718" height="334" alt="BannerGIThub" src="https://github.com/user-attachments/assets/5aae8d10-4f27-48c2-8c37-b9bd930abd00" />
 
 <!--
 **OtiLedON/OtiLedON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
