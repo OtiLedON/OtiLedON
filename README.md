@@ -1,5 +1,4 @@
-<img width="150" height="150" alt="otiledONperfilYT" src="https://github.com/user-attachments/assets/e9477b6c-f40f-4dde-a467-e6e67940ef6d" />
-Hello  I’m Otilia 👋
+Hello  I’m Otilia 👋 <img width="80" height="80" alt="otiledONperfilYT" src="https://github.com/user-attachments/assets/e9477b6c-f40f-4dde-a467-e6e67940ef6d" />
 <img width="718" height="334" alt="BannerGIThub" src="https://github.com/user-attachments/assets/5aae8d10-4f27-48c2-8c37-b9bd930abd00" />
 
 <!--
